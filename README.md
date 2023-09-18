@@ -1,2 +1,0 @@
-# git-practis
-test git
