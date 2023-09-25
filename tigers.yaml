@@ -15,3 +15,4 @@ members:
 fetch: yaml
 
 new: branch
+new2: branch
