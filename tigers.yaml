@@ -1,8 +1,8 @@
 team: Tigers
 
-manager: Thanos
+manager: Brenda
 
-coach: Ronan
+coach: Ruth
 
 members:
 - Linda
@@ -12,7 +12,4 @@ members:
 - Tyler
 - Kim
 
-fetch: yaml
-
-new: branch
-new2: branch
+fetch: this
